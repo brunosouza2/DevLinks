@@ -34,6 +34,7 @@ body {
 
   /*Short Hand*/
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 body * {
